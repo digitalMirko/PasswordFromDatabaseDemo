@@ -10,7 +10,6 @@
     android:padding="40dp"
     tools:context="com.digitalmirko.passwordfromdatabasedemo.MainActivity">
 
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
